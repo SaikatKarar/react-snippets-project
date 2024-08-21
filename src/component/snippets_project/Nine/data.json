@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "home": "Apartment",
+        "age": 32,
+        "city": "New York"
+    },
+    {
+        "id": 2,
+        "home": "House",
+        "age": 45,
+        "city": "Los Angeles"
+    },
+    {
+        "id": 3,
+        "home": "Condo",
+        "age": 28,
+        "city": "Chicago"
+    },
+    {
+        "id": 4,
+        "home": "Townhouse",
+        "age": 50,
+        "city": "Houston"
+    },
+    {
+        "id": 5,
+        "home": "Duplex",
+        "age": 36,
+        "city": "Miami"
+    }
+]
