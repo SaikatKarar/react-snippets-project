@@ -80,27 +80,27 @@ const router = createBrowserRouter([
         element: <Eleven />,
       },
       {
-        path: "/search_input",
+        path: "/Twelve",
         element: <Search_input />,
       },
       {
-        path: "/display_item",
+        path: "/Thirteen",
         element: <DisplayItem />,
       },
       {
-        path: "/toggle_switch",
+        path: "/Fourteen",
         element: <ToggleSwitch />,
       },
       {
-        path: "/fetches_data",
+        path: "/Fifteen",
         element: <FetchesData />,
       },
       {
-        path: "/counts_down",
+        path: "/Sixteen",
         element: <CountsDown />,
       },
       {
-        path: "/to_do",
+        path: "/Seventeen",
         element: <TodoMine />,
       },
     ],

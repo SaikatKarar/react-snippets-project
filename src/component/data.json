@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "serial-number": "One",
+        "title": "Create a simple 'Hello World' React component."
+    },
+    {
+        "id": 2,
+        "serial-number": "Two",
+        "title": "Build a counter application with increment and decrement buttons."
+    },
+    {
+        "id": 3,
+        "serial-number": "Three",
+        "title": "Create a form that takes user input and displays it in real-time."
+    },
+    {
+        "id": 4,
+        "serial-number": "Four",
+        "title": "How to create a counter using React where the user can increment, decrement and reset the count?"
+    },
+    {
+        "id": 5,
+        "serial-number": "Five",
+        "title": "How to manipulate state in one component using React and pass that state as props to another component?"
+    },
+    {
+        "id": 6,
+        "serial-number": "Six",
+        "title": "How to highlight elements in a list under certain conditions in React and use buttons to control that highlighting process?"
+    },
+    {
+        "id": 7,
+        "serial-number": "Seven",
+        "title": "Given an employee data. List out the employee details on DOM. Then upon click of a button “Highlight Employees”, add a border to the employee details who have more than 5 years of experience?"
+    },
+    {
+        "id": 8,
+        "serial-number": "Eight",
+        "title": "How to add the values of two input fields using React and show the result?"
+    },
+    {
+        "id": 9,
+        "serial-number": "Nine",
+        "title": "How to display, update, and remove JSON data loaded in React, as well as toggle visibility of data using conditional rendering?"
+    },
+    {
+        "id": 10,
+        "serial-number": "Ten",
+        "title": "Multiple states to one state handling."
+    },
+    {
+        "id": 11,
+        "serial-number": "Eleven",
+        "title": "How to manage object state in React and change the visual style and values displayed in the UI by changing the state with the click of a button?"
+    },
+    {
+        "id": 12,
+        "serial-number": "Twelve",
+        "title": "In React, how to search for data from a list by a user-supplied value from an input field and display that data in the UI, with an indication if the data is not found?"
+    },
+    {
+        "id": 13,
+        "serial-number": "Thirteen",
+        "title": "Build a list component to display a list of items."
+    },
+    {
+        "id": 14,
+        "serial-number": "Fourteen",
+        "title": "Implement a basic toggle switch component."
+    },
+    {
+        "id": 15,
+        "serial-number": "Fifteen",
+        "title": "Create a component that fetches data from an API and displays it."
+    },
+    {
+        "id": 16,
+        "serial-number": "Sixteen",
+        "title": "Build a timer that counts down from a specified time."
+    },
+    {
+        "id": 17,
+        "serial-number": "Seventeen",
+        "title": "Implement a simple to-do list application with add and remove functionality."
+    }
+]
